@@ -14,7 +14,7 @@ A collection of performance benchmarks and optimization experiments in Go. This 
 To run the benchmark tests, clone the repository and use the Go testing framework:
 
 ```sh
-git clone https://github.com/yourusername/go-performance-tests.git
+git clone https://github.com/hamed-amini-dev/go-performance-tests.git
 cd go-performance-tests
 go test -bench=.
 ```
